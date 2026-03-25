@@ -29,7 +29,6 @@ Ticker:  **AGIv2**.
 
 v2 CA: 3qQAPgLpusbKTsi8rEbbNk3BShqCiT2ygKVAF1m2pump
 
-OLD (depracted): 2uCE7Wqk1a6pzevZfssKB2HYCZtDoZqD4SDfShEUpump
 ---
 
 ## ✨ Features
