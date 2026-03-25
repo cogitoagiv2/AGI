@@ -1,5 +1,7 @@
 # Cogito
 
+# Do not buy old ca, the fees is hijacked by scammers. It was meant to be for AGI
+
 > A lightweight framework for building fast, modular AI reasoning systems.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
